@@ -2,7 +2,7 @@
 
 Able Pro dashboard template built using Bootstrap 4 framework, It is a free lite version of [Able Pro](https://codedthemes.com/item/able-pro-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
 
-![Able Pro Free Admin Template Preview Image](...)
+<!--- ![Able Pro Free Admin Template Preview Image](...) --->
 
 Able Pro admin template comes with variety of components like Alert, Button, Badges, Breadcrumb, Pagination, Card, Collapse, Carousel, Progress, Modal, Spinner, Tabs & Pills, Toasts, Icons, Form Elements, Table, Charts, Maps & Authentication Pages.
 
