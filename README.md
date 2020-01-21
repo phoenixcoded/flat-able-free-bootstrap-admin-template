@@ -130,29 +130,29 @@ We are continuously working in Able Pro Project and going to make it a awesome d
 *All above pages already included in Pro version. We need your support to include those pages in lite version too.* --->
 
 ## Author
-```
+
 Design and code is completely written by Themeforest's design and development team. We are happy to welcome the contributors work for our all repositiories.
 
 <!--- ## Contributing
-
+```
 Please read [CONTRIBUTING.md](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. --->
 
 ## Issues
-```
+
 Please generate Github issue if you found bug in any version. We are try to be responsive to resolve the issue.
 
 ## License
-```
+
  - Licensed cover under [MIT](https://github.com/phoenixcoded/able-pro-free-bootstrap-admin-template/blob/master/LICENSE)
 
 ## Other Dashboard Products
-```
+
  <!--- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/)
  - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/) --->
  - [Premium Bootstrap & Angular & React Admin Template](https://themeforest.net/user/phoenixcoded/portfolio)
  
 ## Social Profiles
-```
+
  - Dribbble [https://dribbble.com/phoenixcoded](https://dribbble.com/phoenixcoded)
  - Behance [https://www.behance.net/phoenixcoded](https://www.behance.net/phoenixcoded)
  - Facebook [https://www.facebook.com/phoenixcoded](https://www.facebook.com/phoenixcoded)
