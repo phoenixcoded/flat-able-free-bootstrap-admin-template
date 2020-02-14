@@ -1,6 +1,6 @@
 # Able Pro Free Bootstrap 4 Admin Template 
 
-Able Pro dashboard template built using Bootstrap 4 framework, It is a free lite version of [Able Pro](https://codedthemes.com/item/able-pro-lite-free-admin-template/){:target="_blank"} Dashboard Template will complete your admin dashboard needs.
+Able Pro dashboard template built using Bootstrap 4 framework, It is a free lite version of [Able Pro](https://codedthemes.com/item/able-pro-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
 
 <!--- ![Able Pro Free Admin Template Preview Image](...) --->
 
@@ -20,12 +20,12 @@ Check out live preview of Able Pro lite version & download it.
 
 #### Preview
 
- - [Demo](https://codedthemes.com/item/able-pro-lite-free-admin-template/){:target="_blank"}
+ - [Demo](https://codedthemes.com/item/able-pro-lite-free-admin-template/)
 
 #### Download
 
- - [Download from Github](https://github.com/phoenixcoded/able-pro-bootstrap-dashboard.git){:target="_blank"}
- - [Download from CodedThemes]( https://codedthemes.com/item/able-pro-lite-free-admin-template/){:target="_blank"} & receive important notification instantly in your maiL.
+ - [Download from Github](https://github.com/phoenixcoded/able-pro-bootstrap-dashboard.git)
+ - [Download from CodedThemes]( https://codedthemes.com/item/able-pro-lite-free-admin-template/) & receive important notification instantly in your maiL.
  
  ## Premium Version Preview & Download
 
@@ -36,7 +36,7 @@ Able Pro Admin Template is available to purchase. Visit its numerous demos and m
 
 #### Download
 
- - [Purchase from Themeforest](https://themeforest.net/item/able-pro-responsive-bootstrap-4-admin-template/19300403?s_rank=12){:target="_blank"}
+ - [Purchase from Themeforest](https://themeforest.net/item/able-pro-responsive-bootstrap-4-admin-template/19300403?s_rank=12)
 
 ## Table of contents
 
@@ -66,8 +66,8 @@ Able Pro Lite version documentation cover in its Pro version documentation - che
 
 ## Build With
 
- - [Bootstrap 4](https://getbootstrap.com/){:target="_blank"}
- - [SASS](https://sass-lang.com/){:target="_blank"}
+ - [Bootstrap 4](https://getbootstrap.com/)
+ - [SASS](https://sass-lang.com/)
  
 ## Directory Structure
 ```
@@ -135,7 +135,7 @@ Design and code is completely written by Themeforest's design and development te
 
 <!--- ## Contributing
 ```
-Please read [CONTRIBUTING.md](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/CONTRIBUTING.md){:target="_blank"} for details on our code of conduct, and the process for submitting pull requests to us. --->
+Please read [CONTRIBUTING.md](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. --->
 
 ## Issues
 
@@ -143,18 +143,18 @@ Please generate Github issue if you found bug in any version. We are try to be r
 
 ## License
 
- - Licensed cover under [MIT](https://github.com/phoenixcoded/able-pro-free-bootstrap-admin-template/blob/master/LICENSE){:target="_blank"}
+ - Licensed cover under [MIT](https://github.com/phoenixcoded/able-pro-free-bootstrap-admin-template/blob/master/LICENSE)
 
 ## Other Dashboard Products
 
- <!--- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/){:target="_blank"}
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/){:target="_blank"} --->
- - [Premium Bootstrap & Angular & React Admin Template](https://themeforest.net/user/phoenixcoded/portfolio){:target="_blank"}
+ <!--- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/)
+ - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/) --->
+ - [Premium Bootstrap & Angular & React Admin Template](https://themeforest.net/user/phoenixcoded/portfolio)
  
 ## Social Profiles
 
- - Dribbble [https://dribbble.com/phoenixcoded](https://dribbble.com/phoenixcoded){:target="_blank"}
- - Behance [https://www.behance.net/phoenixcoded](https://www.behance.net/phoenixcoded){:target="_blank"}
- - Facebook [https://www.facebook.com/phoenixcoded](https://www.facebook.com/phoenixcoded){:target="_blank"}
- - Twitter [https://twitter.com/phoenixcoded](https://twitter.com/phoenixcoded){:target="_blank"}
- - Instagram [https://www.instagram.com/phoenixcoded/](https://www.instagram.com/phoenixcoded/){:target="_blank"}
+ - Dribbble [https://dribbble.com/phoenixcoded](https://dribbble.com/phoenixcoded)
+ - Behance [https://www.behance.net/phoenixcoded](https://www.behance.net/phoenixcoded)
+ - Facebook [https://www.facebook.com/phoenixcoded](https://www.facebook.com/phoenixcoded)
+ - Twitter [https://twitter.com/phoenixcoded](https://twitter.com/phoenixcoded)
+ - Instagram [https://www.instagram.com/phoenixcoded/](https://www.instagram.com/phoenixcoded/)
