@@ -20,7 +20,7 @@ Check out live preview of Able Pro lite version & download it.
 
 #### Preview
 
- - [Demo](https://codedthemes.com/item/able-pro-lite-free-admin-template/)
+ - [Demo](https://codedthemes.com/item/able-pro-lite-free-admin-template/?target=_blank)
 
 #### Download
 
