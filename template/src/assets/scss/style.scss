@@ -8,6 +8,7 @@ File: style.css
 =================================================================================== */
 
 // theme font
+// @import "themes/font/theme-font";
 @import "themes/font/theme-font";
 
 // theme scrollbar
@@ -24,6 +25,7 @@ File: style.css
 @import "themes/font/datta-icon";
 @import "themes/font/feather";
 @import "themes/font/fontawesome";
+@import "themes/font/flaticon";
 
 // bootstrap css
 @import "themes/bootstrap-overlay/card";
@@ -44,7 +46,28 @@ File: style.css
 @import "themes/dashboard/widget";
 
 // custom pluginss
+@import "themes/plugins/sweatalert";
+@import "themes/plugins/lightbox";
+@import "themes/plugins/notification";
+@import "themes/plugins/pnotify";
+@import "themes/plugins/bar-rating";
+@import "themes/plugins/rangeslider";
+@import "themes/plugins/daterange";
+@import "themes/plugins/tags-input";
+@import "themes/plugins/maxlength";
+@import "themes/plugins/wizard";
+@import "themes/plugins/select2";
 @import "themes/plugins/data-tables";
+
+// charts
+@import "themes/plugins/highcharts";
+@import "themes/plugins/peitychart";
 
 // pages
 @import "themes/pages/authentication";
+@import "themes/pages/maintaince";
+@import "themes/pages/pages";
+@import "themes/pages/help-desk";
+@import "themes/pages/fullcalender";
+@import "themes/pages/icon-lauouts";
+@import "themes/pages/user";

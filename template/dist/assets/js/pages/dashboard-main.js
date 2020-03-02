@@ -11,12 +11,12 @@ function floatchart() {
         var options1 = {
             chart: {
                 type: 'area',
-                height: 80,
+                height: 65,
                 sparkline: {
                     enabled: true
                 }
             },
-            colors: ["#4680ff"],
+            colors: ["#1abc9c"],
             stroke: {
                 curve: 'smooth',
                 width: 2,
@@ -46,46 +46,6 @@ function floatchart() {
         new ApexCharts(document.querySelector("#support-chart"), options1).render();
     });
     // [ support-chart ] end
-    // [ support-chart1 ] start
-    $(function() {
-        var options1 = {
-            chart: {
-                type: 'area',
-                height: 80,
-                sparkline: {
-                    enabled: true
-                }
-            },
-            colors: ["#9ccc65"],
-            stroke: {
-                curve: 'smooth',
-                width: 2,
-            },
-            series: [{
-                data: [0, 20, 10, 45, 30, 55, 20, 30, 0]
-            }],
-            tooltip: {
-                fixed: {
-                    enabled: false
-                },
-                x: {
-                    show: false
-                },
-                y: {
-                    title: {
-                        formatter: function(seriesName) {
-                            return 'Ticket '
-                        }
-                    }
-                },
-                marker: {
-                    show: false
-                }
-            }
-        }
-        new ApexCharts(document.querySelector("#support-chart1"), options1).render();
-    });
-    // [ support-chart1 ] end
     // [ power-card-chart1 ] start
     $(function() {
         var options = {
@@ -99,7 +59,7 @@ function floatchart() {
             dataLabels: {
                 enabled: false
             },
-            colors: ["#ff5252"],
+            colors: ["#e74c3c"],
             stroke: {
                 curve: 'smooth',
                 width: 3,
@@ -149,7 +109,7 @@ function floatchart() {
             dataLabels: {
                 enabled: false
             },
-            colors: ["#ffba57"],
+            colors: ["#f1c40f"],
             stroke: {
                 curve: 'smooth',
                 width: 3,
@@ -199,7 +159,7 @@ function floatchart() {
             dataLabels: {
                 enabled: false
             },
-            colors: ["#4680ff"],
+            colors: ["#1abc9c"],
             fill: {
                 type: 'solid',
                 opacity: 0.3,
@@ -207,8 +167,8 @@ function floatchart() {
             markers: {
                 size: 2,
                 opacity: 0.9,
-                colors: "#4680ff",
-                strokeColor: "#4680ff",
+                colors: "#1abc9c",
+                strokeColor: "#1abc9c",
                 strokeWidth: 2,
                 hover: {
                     size: 4,
@@ -258,7 +218,7 @@ function floatchart() {
             dataLabels: {
                 enabled: false
             },
-            colors: ["#9ccc65"],
+            colors: ["#2ecc71"],
             plotOptions: {
                 bar: {
                     columnWidth: '60%'
@@ -308,7 +268,7 @@ function floatchart() {
             dataLabels: {
                 enabled: false
             },
-            colors: ["#ff5252"],
+            colors: ["#e74c3c"],
             fill: {
                 type: 'solid',
                 opacity: 0,
@@ -316,8 +276,8 @@ function floatchart() {
             markers: {
                 size: 2,
                 opacity: 0.9,
-                colors: "#ff5252",
-                strokeColor: "#ff5252",
+                colors: "#e74c3c",
+                strokeColor: "#e74c3c",
                 strokeWidth: 2,
                 hover: {
                     size: 4,
@@ -354,4 +314,53 @@ function floatchart() {
         chart.render();
     });
     // [ seo-chart3 ] end
+    // [ tot-lead ] start
+$(function() {
+    var options = {
+        chart: {
+            type: 'area',
+            height: 150,
+            sparkline: {
+                enabled: true
+            }
+        },
+        dataLabels: {
+            enabled: false
+        },
+        colors: ["#1abc9c"],
+        fill: {
+            type: 'solid',
+            opacity: 0.3,
+        },
+        stroke: {
+            curve: 'straight',
+            width: 3,
+        },
+        series: [{
+            name: 'series1',
+            data: [25, 66, 41, 89, 25, 44, 12, 36, 9, 54, 25, 66, 41, 89]
+        }],
+        tooltip: {
+            fixed: {
+                enabled: false
+            },
+            x: {
+                show: false
+            },
+            y: {
+                title: {
+                    formatter: function(seriesName) {
+                        return 'Total Leads :'
+                    }
+                }
+            },
+            marker: {
+                show: false
+            }
+        }
+    };
+    var chart = new ApexCharts(document.querySelector("#tot-lead"), options);
+    chart.render();
+});
+// [ tot-lead ] end
 }

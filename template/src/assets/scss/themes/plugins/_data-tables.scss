@@ -13,7 +13,7 @@
         border-bottom: 1px solid $theme-border;
         font-size: 13px;
         color: $theme-heading-color;
-        background: $theme-background;
+        background: lighten($theme-background,5%);
         text-transform: uppercase;
     }
 
@@ -29,7 +29,7 @@
 
     &.dataTable[class*="table-"] {
         thead th {
-            background: $theme-background;
+            background: lighten($theme-background,5%);
         }
     }
 }

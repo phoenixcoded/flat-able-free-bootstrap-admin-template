@@ -1,10 +1,10 @@
-# Able Pro Free Bootstrap 4 Admin Template 
+# Flat Able Free Bootstrap 4 Admin Template
 
-Able Pro dashboard template built using Bootstrap 4 framework, It is a free lite version of [Able Pro](https://codedthemes.com/item/able-pro-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
+Flat Able dashboard template built using Bootstrap 4 framework, It is a free lite version of [Flat Able](https://codedthemes.com/item/flat-able-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
 
-<!--- ![Able Pro Free Admin Template Preview Image](...) --->
+<!--- ![Flat Able Free Admin Template Preview Image](...) --->
 
-Able Pro admin template comes with variety of components like Alert, Button, Badges, Breadcrumb, Pagination, Card, Collapse, Carousel, Progress, Modal, Spinner, Tabs & Pills, Toasts, Icons, Form Elements, Table, Charts, Maps & Authentication Pages.
+Flat Able admin template comes with variety of components like Alert, Button, Badges, Breadcrumb, Pagination, Card, Collapse, Carousel, Progress, Modal, Spinner, Tabs & Pills, Toasts, Icons, Form Elements, Table, Charts, Maps & Authentication Pages.
 
 The code structure is highly flexible to use and modify. 
 
@@ -16,27 +16,27 @@ Wish you happy to use our product in your project.
 
 ## Free Version Preview & Download
 
-Check out live preview of Able Pro lite version & download it.
+Check out live preview of Flat Able lite version & download it.
 
 #### Preview
 
- - [Demo](https://codedthemes.com/item/able-pro-lite-free-admin-template/)
+ - [Demo](https://codedthemes.com/item/flat-able-lite-free-admin-template/)
 
 #### Download
 
- - [Download from Github](https://github.com/phoenixcoded/able-pro-bootstrap-dashboard.git)
- - [Download from CodedThemes]( https://codedthemes.com/item/able-pro-lite-free-admin-template/) & receive important notification instantly in your maiL.
+ - [Download from Github](https://github.com/phoenixcoded/flat-able-free-bootstrap-admin-template.git)
+ - [Download from CodedThemes]( https://codedthemes.com/item/flat-able-lite-free-admin-template/) & receive important notification instantly in your maiL.
  
  ## Premium Version Preview & Download
 
-Able Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
+Flat Able Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
 #### Preview
 
- - [Demo](http://ableproadmin.com/)
+ - [Demo](http://html.phoenixcoded.net/flatable/default/index.html)
 
 #### Download
 
- - [Purchase from Themeforest](https://themeforest.net/item/able-pro-responsive-bootstrap-4-admin-template/19300403?s_rank=12)
+ - [Purchase from Themeforest](https://themeforest.net/item/flat-able-bootstrap-4-admin-template/19842250?s_rank=9)
 
 ## Table of contents
 
@@ -56,13 +56,13 @@ Able Pro Admin Template is available to purchase. Visit its numerous demos and m
 
 Clone from Github 
 ```
-git clone https://github.com/phoenixcoded/able-pro-bootstrap-dashboard.git
+git clone https://github.com/phoenixcoded/flat-able-free-bootstrap-admin-template.git
 ```
-*no other dependencies required to run the Able Pro Template*
+*no other dependencies required to run the Flat Able Template*
 
 ## Online Documentation
 
-Able Pro Lite version documentation cover in its Pro version documentation - check our [website.](http://ableproadmin.com/bootstrap/docs/)
+Flat Able Lite version documentation cover in its Pro version documentation - check our [website.](http://html.phoenixcoded.net/flat-able/docs/bootstrap)
 
 ## Build With
 
@@ -71,7 +71,7 @@ Able Pro Lite version documentation cover in its Pro version documentation - che
  
 ## Directory Structure
 ```
-able-pro/
+flat-able/
 ├── dist/
     ├── assets/
     |   ├── css/
@@ -100,7 +100,7 @@ able-pro/
 
 <!--- ## RoadMap
     
-We are continuously working in Able Pro Project and going to make it a awesome dashboard template via your support. Give us the ideas, suggestion for include more components, pages, plugins. Few of future release pages are
+We are continuously working in Flat Able Project and going to make it a awesome dashboard template via your support. Give us the ideas, suggestion for include more components, pages, plugins. Few of future release pages are
  
 #### Layouts 
  - Vertical version
@@ -143,12 +143,12 @@ Please generate Github issue if you found bug in any version. We are try to be r
 
 ## License
 
- - Licensed cover under [MIT](https://github.com/phoenixcoded/able-pro-free-bootstrap-admin-template/blob/master/LICENSE)
+ - Licensed cover under [MIT](https://github.com/phoenixcoded/flat-able-free-bootstrap-admin-template/blob/master/LICENSE.md)
 
 ## Other Dashboard Products
 
- <!--- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/)
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/) --->
+ - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/)
+ - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/)
  - [Premium Bootstrap & Angular & React Admin Template](https://themeforest.net/user/phoenixcoded/portfolio)
  
 ## Social Profiles

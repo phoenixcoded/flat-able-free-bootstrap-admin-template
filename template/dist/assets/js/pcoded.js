@@ -187,32 +187,6 @@ $(document).ready(function() {
         }, 3000);
     });
 
-    // Material form start
-    $(".form-control").each(function() {
-        formmat($(this));
-    });
-    $('.form-control').on('blur', function() {
-        formmat($(this));
-    });
-    $('.form-control').on('focus', function() {
-        $(this).parent('.form-group').addClass("fill");
-    });
-
-    function formmat(e) {
-        var $temp = 0;
-        try {
-            $temp = e.attr('placeholder').length;
-        } catch (err) {
-            $temp = 0;
-        }
-        if (e.val().length > 0 || $temp > 0) {
-            e.parent('.form-group').addClass("fill");
-        } else {
-            e.parent('.form-group').removeClass("fill");
-        }
-    }
-    // Material form end
-
     // remove pre-loader start
     setTimeout(function() {
         $('.loader-bg').fadeOut('slow', function() {
@@ -775,7 +749,7 @@ $(window).scroll(function() {
         } else {
             $('.pcoded-navbar.menupos-fixed').removeAttr('style');
             $('.pcoded-navbar.menupos-fixed').css('position', 'absolute');
-            $('.pcoded-navbar.menupos-fixed').css('margin-top', '60px');
+            $('.pcoded-navbar.menupos-fixed').css('margin-top', '56px');
         }
     }
     if ($('body').hasClass("box-layout")) {
@@ -788,33 +762,15 @@ $(window).scroll(function() {
         } else {
             $('.pcoded-navbar').removeAttr('style');
             $('.pcoded-navbar').css('position', 'absolute');
-            $('.pcoded-navbar').css('margin-top', '60px');
+            $('.pcoded-navbar').css('margin-top', '56px');
         }
     }
 });
 // only heaeder fixed js end
 
-// wave effect start
-
-$.ripple(".btn, .pcoded-navbar a,.pcoded-header .navbar-nav > li > .dropdown > a,.page-link, .nav .nav-link", {
-    debug: false, // Turn Ripple.js logging on/off
-    on: 'mousedown', // The event to trigger a ripple effect
-    opacity: 0.4, // The opacity of the ripple
-    color: "auto", // Set the background color. If set to "auto", it will use the text color
-    multi: false, // Allow multiple ripples per element
-    duration: 0.7, // The duration of the ripple
-    // Filter function for modifying the speed of the ripple
-    rate: function(pxPerSecond) {
-        return pxPerSecond;
-    },
-    easing: 'linear' // The CSS3 easing function of the ripple
-});
-// wave effect end
 // more-details start
 $('#more-details').on('click', function() {
     $('#nav-user-link').slideToggle();
 });
 // more-details end
-$("body").append('<div class="fixed-button active"><a href="https://1.envato.market/qG0m5" target="_blank" class="btn btn-md btn-primary"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Upgrade To Pro</a> </div>');
-// var $window=$(window),nav=$(".fixed-button");
-// $window.scroll(function(){$window.scrollTop()>=200?nav.addClass("active"):nav.removeClass("active")});
+$("body").append('<div class="fixed-button active"><a href="https://1.envato.market/PgJNQ" target="_blank" class="btn btn-md btn-primary"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Upgrade To Pro</a> </div>');

@@ -1,6 +1,6 @@
 {
-  "name": "Able-pro-lite",
-  "version": "8.0.0",
+  "name": "Flat-bootstrap-admin-template",
+  "version": "1.0.0",
   "description": "Nextro is a admin template made using Bootstrap 4 framework.",
   "main": "index.js",
   "scripts": {

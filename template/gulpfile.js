@@ -22,8 +22,8 @@ const layout = {
     'darktheme': 'false', // true / false
     'rtltheme': 'false', // true / false
     'bodyclass': '',
-    'menuclass': 'menu-light',
-    'headerclass': 'header-blue',
+    'menuclass': '',
+    'headerclass': 'header-dark',
 }
 
 
@@ -49,7 +49,7 @@ gulp.task('build', function() {
             "node_modules/apexcharts/dist/apexcharts.min.js",
             "node_modules/gmaps/gmaps.min.js",
             "node_modules/components-jqueryui/jquery-ui.min.js",
- 
+
         ],
         css: [
             "node_modules/bootstrap/dist/css/bootstrap.min.css",
