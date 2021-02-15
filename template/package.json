@@ -36,7 +36,7 @@
     "components-jqueryui": "^1.12.1",
     "gmaps": "^0.4.24",
     "gulp-file-include": "^2.0.1",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "perfect-scrollbar": "^1.4.0",
     "prismjs": "^1.16.0"
