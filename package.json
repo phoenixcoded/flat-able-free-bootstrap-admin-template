@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Flat Able is a admin template made using Bootstrap 5 framework with vanilla js.",
   "main": "index.js",
-  "Author": "Codedthemes",
+  "Author": "Phoenixcoded",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

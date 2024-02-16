@@ -1,6 +1,6 @@
 # Flat Able Free Bootstrap 5 Admin Template
 
-Flat Able dashboard template built using Bootstrap 5 framework, It is a free lite version of [Flat Able](https://codedthemes.com/item/flat-able-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
+Flat Able dashboard template built using Bootstrap 5 framework, It is a free lite version of [Flat Able](https://github.com/phoenixcoded/flat-able-free-bootstrap-admin-template) Dashboard Template will complete your admin dashboard needs.
 
 ![IMG_8566.jpg](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-BOOTSTRAP-REPO-Flat+able.jpg)
 
@@ -20,12 +20,11 @@ Check out live preview of Flat Able lite version & download it.
 
 #### Preview
 
- - [Demo](http://lite.codedthemes.com/flatable/)
+ - [Demo](https://phoenixcoded.github.io/flat-able-free-bootstrap-admin-template/)
 
 #### Download
 
  - [Download from Github](https://github.com/phoenixcoded/flat-able-free-bootstrap-admin-template)
- - [Download from CodedThemes](https://codedthemes.com/item/flat-able-lite-free-admin-template/) & receive important notification instantly in your maiL.
  
  ## Premium Version Preview & Download
 
