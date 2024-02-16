@@ -1,6 +1,8 @@
-# Flat Able Free Bootstrap 4 Admin Template
+# Flat Able Free Bootstrap 5 Admin Template
 
-Flat Able dashboard template built using Bootstrap 4 framework, It is a free lite version of [Flat Able](https://codedthemes.com/item/flat-able-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
+Flat Able dashboard template built using Bootstrap 5 framework, It is a free lite version of [Flat Able](https://codedthemes.com/item/flat-able-lite-free-admin-template/) Dashboard Template will complete your admin dashboard needs.
+
+![IMG_8566.jpg](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-BOOTSTRAP-REPO-Flat+able.jpg)
 
 Flat Able admin template comes with variety of components like Alert, Button, Badges, Breadcrumb, Pagination, Card, Collapse, Carousel, Progress, Modal, Spinner, Tabs & Pills, Toasts, Icons, Form Elements, Table, Charts, Maps & Authentication Pages.
 
@@ -31,7 +33,7 @@ Flat Able Admin Template is available to purchase. Visit its numerous demos and 
 
 #### Preview
 
- - [Demo](http://html.phoenixcoded.net/flatable/default/)
+ - [Demo](http://html.phoenixcoded.net/flatable/)
 
 #### Download
 
@@ -66,7 +68,7 @@ Flat Able Lite version documentation cover in its Pro version documentation - ch
 
 ## Build With
 
- - [Bootstrap 4](https://getbootstrap.com/)
+ - [Bootstrap 5](https://getbootstrap.com/)
  - [SASS](https://sass-lang.com/)
  
 ## Directory Structure
@@ -112,7 +114,7 @@ Please generate Github issue if you found bug in any version. We are try to be r
 
 ## Other Dashboard Products
 
- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
+ - [Free Bootstrap 5 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
  - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
  - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
  - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
