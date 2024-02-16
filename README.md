@@ -117,11 +117,5 @@ Please generate Github issue if you found bug in any version. We are try to be r
  - [Free Bootstrap 5 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
  - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
  - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
+ - [Free Able Pro Dashboard Template](https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template)
  - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
- 
-## Social Profiles
- - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
- - Behance [https://www.behance.net/codedthemes](https://www.behance.net/codedthemes)
- - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
- - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
- - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
